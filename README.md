@@ -18,6 +18,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
   :To build your neural network, you will be implementing several "helper functions". These helper functions will be used in the next assignment to build a two-layer neural network and an L-layer neural network. (helper functions for 1.  Initialize the parameters 2. forward propagation 3. backward propagation 4.Compute the loss 5.update the parameters.)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
+  :will use use the functions implemented in the previous assignment to build a deep network, and apply it to cat vs non-cat classification. ( 2-layer neural network ,  L-layer deep neural network)
   
 
  - Syllabus
