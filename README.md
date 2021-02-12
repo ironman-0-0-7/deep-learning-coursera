@@ -55,6 +55,8 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 Put together these building blocks to implement and train a state-of-the-art neural network for image classification. (in keras )
   - [Week 3 - PA 1 - object detection ](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection_v3a%20(1).ipynb)
   - [Week 4 - PA 1 - neural style transfer](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer_v3a%20(1).ipynb)
+  : Implement the neural style transfer algorithm
+Generate novel artistic images using your algorithm
  
  
  
