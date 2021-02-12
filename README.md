@@ -6,7 +6,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
  [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
-## Programming Assignments
+## Programming Assignments and Syllabus
 
 - Course 1: Neural Networks and Deep Learning
 
