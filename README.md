@@ -86,5 +86,5 @@ The deeper layers tend to detect higher-level features such as more complex text
   
 ### Course 5: Sequence Models
 
-  - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
-  - [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
+  - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
+  - [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
