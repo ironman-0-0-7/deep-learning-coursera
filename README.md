@@ -45,6 +45,23 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
   - [Week 2 - PA 2 - Residual Networks](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v1.ipynb)
   
+ 
+ 
+ 
+ - Syllabus
+    -  Simple Convolutional Network Edge Detection Example
+    -  Pooling Layers
+    -  Strided Convolutions
+    -  Padding
+    -  ResNets Inception Network
+    -  Object Detection Object Localization  Landmark Detection YOLO Algorithm
+    -  face recognition Triplet Loss
+    -  Siamese Network
+    -  neural style transfer
+  
+  
+  
+  
 - Course 5: Sequence Models
 
   - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
