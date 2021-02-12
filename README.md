@@ -14,7 +14,9 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   : Build a logistic regression classifier to recognize cats from scratch (just one neuron flatten image and input to neuron ) 
   
   - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+  : 2-class classification neural network with a single hidden layer (A hidden layer in an artificial neural network is a layer in between input layers and output layers)
   - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+  :
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
   
 
