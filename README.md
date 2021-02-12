@@ -86,8 +86,8 @@ The deeper layers tend to detect higher-level features such as more complex text
 - Choose a "middle" activation layer
 - Forward propagate image "C"
 - Forward propagate image "G"
-- Content Cost Function 
-https://render.githubusercontent.com/render/math?math=J_%7Bcontent%7D%28C%2CG%29%20%3D%20%20%5Cfrac%7B1%7D%7B4%20%5Ctimes%20n_H%20%5Ctimes%20n_W%20%5Ctimes%20n_C%7D%5Csum%20_%7B%20%5Ctext%7Ball%20entries%7D%7D%20%28a%5E%7B%28C%29%7D%20-%20a%5E%7B%28G%29%7D%29%5E2%5Ctag%7B1%7D&mode=display
+- Content Cost Function ![alt text](https://render.githubusercontent.com/render/math?math=J_%7Bcontent%7D%28C%2CG%29%20%3D%20%20%5Cfrac%7B1%7D%7B4%20%5Ctimes%20n_H%20%5Ctimes%20n_W%20%5Ctimes%20n_C%7D%5Csum%20_%7B%20%5Ctext%7Ball%20entries%7D%7D%20%28a%5E%7B%28C%29%7D%20-%20a%5E%7B%28G%29%7D%29%5E2%5Ctag%7B1%7D&mode=display)
+
 
   ### Object Detection 
   
