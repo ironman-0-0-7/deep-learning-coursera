@@ -81,31 +81,8 @@ In ResNets, a "shortcut" or a "skip connection" allows the gradient to be direct
 The shallower layers of a ConvNet tend to detect lower-level features such as edges and simple textures.
 The deeper layers tend to detect higher-level features such as more complex textures as well as object classes
 
-
-   #### steps 
-   - Choose a "middle" activation layer
-   - Forward propagate image "C"
-   - Forward propagate image "G"
-   - Content Cost Function ![alt text](https://render.githubusercontent.com/render/math?math=J_%7Bcontent%7D%28C%2CG%29%20%3D%20%20%5Cfrac%7B1%7D%7B4%20%5Ctimes%20n_H%20%5Ctimes%20n_W%20%5Ctimes%20n_C%7D%5Csum%20_%7B%20%5Ctext%7Ball%20entries%7D%7D%20%28a%5E%7B%28C%29%7D%20-%20a%5E%7B%28G%29%7D%29%5E2%5Ctag%7B1%7D&mode=display)
-   - Gram matrix : In linear algebra, the Gram matrix G of a set of vectors $(v_{1},\dots ,v_{n})$ is the matrix of dot products, whose entries are ${\displaystyle G_{ij} = v_{i}^T v_{j} = np.dot(v_{i}, v_{j})  }$.
-   In other words, $G_{ij}$ compares how similar $v_i$ is to $v_j$: If they are highly similar, you would expect them to have a large dot product, and thus for $G_{ij}$ to be large
-   - Style cost : Your goal will be to minimize the distance between the Gram matrix of the "style" image S and the gram matrix of the "generated" image G
-
-
   ### Object Detection 
   "You Only Look Once" (YOLO) is a popular algorithm because it achieves high accuracy while also being able to run in real-time. This algorithm "only looks once" at the image in the sense that it requires only one forward propagation pass through the network to make predictions. After non-max suppression, it then outputs recognized objects together with the bounding boxes
-
-   #### summary of yolo 
-   - Input image (608, 608, 3)
-   - The input image goes through a CNN, resulting in a (19,19,5,85) dimensional output.
-   - After flattening the last two dimensions, the output is a volume of shape (19, 19, 425):
-   - Each cell in a 19x19 grid over the input image gives 425 numbers.
-   - 425 = 5 x 85 because each cell contains predictions for 5 boxes, corresponding to 5 anchor boxes, as seen in lecture.
-   - 85 = 5 + 80 where 5 is because $(p_c, b_x, b_y, b_h, b_w)$ has 5 numbers, and 80 is the number of classes we'd like to detect
-   - You then select only few boxes based on:
-   - Score-thresholding: throw away boxes that have detected a class with a score less than the threshold
-   - Non-max suppression: Compute the Intersection over Union and avoid selecting overlapping boxes
-   - This gives you YOLO's final output.
   
 ### Course 5: Sequence Models
 
