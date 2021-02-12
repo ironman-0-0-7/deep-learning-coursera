@@ -17,7 +17,6 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   
 
  - Syllabus
-    -  Supervised Learning with Neural Networks
     -  Logistic Regression
     -  Computation graph
     -  Derivatives with a Computation Graph
