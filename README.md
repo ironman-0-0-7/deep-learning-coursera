@@ -43,7 +43,8 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
   - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
   - [Week 2 - PA 2 - Residual Networks](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v1.ipynb)
-  
+  - [Week 3 - PA 1 - object detection ](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection_v3a%20(1).ipynb)
+  - [Week 4 - PA 1 - neural style transfer](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer_v3a%20(1).ipynb)
  
  
  
