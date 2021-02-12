@@ -76,7 +76,20 @@ Generate novel artistic images using your algorithm
   ### Resnet (Residual Network) and skip connection 
   The main benefit of a very deep network is that it can represent very complex functions. It can also learn features at many different levels of abstraction, from edges (at the lower layers) to very complex features (at the deeper layers). However, using a deeper network doesn't always help. A huge barrier to training them is vanishing gradients: very deep networks often have a gradient signal that goes to zero quickly, thus making gradient descent unbearably slow. More specifically, during gradient descent, as you backprop from the final layer back to the first layer, you are multiplying by the weight matrix on each step, and thus the gradient can decrease exponentially quickly to zero (or, in rare cases, grow exponentially quickly and "explode" to take very large values)
 In ResNets, a "shortcut" or a "skip connection" allows the gradient to be directly backpropagated to earlier layers
-  
+  ### Neural style transfer
+  it merges two images, namely: a "content" image (C) and a "style" image (S), to create a "generated" image (G) . Neural Style Transfer (NST) uses a previously trained convolutional network, and builds on top of that . These  models has already been trained on the very large ImageNet database, and thus has learned to recognize a variety of low level features (at the shallower layers) and high level features (at the deeper layers)
+The shallower layers of a ConvNet tend to detect lower-level features such as edges and simple textures.
+The deeper layers tend to detect higher-level features such as more complex textures as well as object classes
+
+
+####steps 
+- Choose a "middle" activation layer
+- Forward propagate image "C"
+- Forward propagate image "G"
+- Content Cost Function 
+https://render.githubusercontent.com/render/math?math=J_%7Bcontent%7D%28C%2CG%29%20%3D%20%20%5Cfrac%7B1%7D%7B4%20%5Ctimes%20n_H%20%5Ctimes%20n_W%20%5Ctimes%20n_C%7D%5Csum%20_%7B%20%5Ctext%7Ball%20entries%7D%7D%20%28a%5E%7B%28C%29%7D%20-%20a%5E%7B%28G%29%7D%29%5E2%5Ctag%7B1%7D&mode=display
+
+  ### Object Detection 
   
 ### Course 5: Sequence Models
 
