@@ -30,7 +30,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
     -  Vectorizing Logistic Regression
     -  Random Initialization
     -  Activation functions
-- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
   - [Week 1 - PA 1 - Initialization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
   - [Week 1 - PA 2 - Regularization](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
@@ -38,11 +38,11 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
   - [Week 2 - PA 4 - Optimization Methods](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
   - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/Kulbear/deep-learning-coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
 
-- Course 3: Structuring Machine Learning Projects
+### Course 3: Structuring Machine Learning Projects
 
   - There is no PA for this course. But this course comes with very interesting case study quizzes.
   
-- Course 4: Convolutional Neural Networks
+### Course 4: Convolutional Neural Networks
 
   - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/ironman-0-0-7/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
   : implement convolutional (CONV) and pooling (POOL) layers in numpy, including both forward propagation and backward propagation
@@ -78,7 +78,7 @@ Generate novel artistic images using your algorithm
 In ResNets, a "shortcut" or a "skip connection" allows the gradient to be directly backpropagated to earlier layers
   
   
-- Course 5: Sequence Models
+### Course 5: Sequence Models
 
   - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
   - [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/Kulbear/deep-learning-coursera/blob/master/Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
